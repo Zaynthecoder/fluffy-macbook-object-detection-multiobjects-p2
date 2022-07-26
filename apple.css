@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+}
+
+.niceness{
+    background-color: darkblue;
+    color: red;
+    font-size: 20px;
+
+}
+
+.nicenesstxt {
+    font-size: 20px;
+    color: black;
+    border-radius: 25px;
+
+
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(255, 70, 255);
+    border-radius: 10px;
+
+
+}
